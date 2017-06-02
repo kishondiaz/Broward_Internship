@@ -1,1 +1,3 @@
 # Broward_Internship
+
+This is my a part of a eight person team project that was apart or the Broward Internship ran by Prof. Michelle Levine of Broward College I was one of the people that worked on most of the front end at first they had us on two teams of four front end and back end. At the end they combined us to use agile. I was the team lead for the html JavaScript visual, and I did a lot of the work  on the visual  CSS and Html
